@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "auo build"
+echo "git to jenkins auoto triger"
