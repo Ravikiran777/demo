@@ -1,2 +1,2 @@
 #!/bin/bash
-touch a{1..6}
+touch gk{1..6}
